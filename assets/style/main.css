@@ -1,0 +1,16 @@
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: 0;
+  }
+  input[type=email]{
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: 0;
+  }
+  .nesto{
+      background-color: #f8f8f8;
+  }
+  #boja{
+      color: gainsboro;
+  }
