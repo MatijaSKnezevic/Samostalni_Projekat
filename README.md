@@ -1,4 +1,4 @@
-# PhpJSWebsite
+# Samostalni_Projekat
 PhpJS website
 
 ## Database
